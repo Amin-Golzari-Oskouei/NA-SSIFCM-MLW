@@ -13,6 +13,9 @@ Comments are written for all steps of the algorithm for better understanding the
 
 <img width="1680" height="837" alt="Model drawio (2) drawio" src="https://github.com/user-attachments/assets/6990c30c-0e05-4937-a0ab-98a2b8dd1112" />
 
+# Used Dataset:
+To evaluate the proposed method, the UCI benchmark dataset has been used. There are some datasets in the uploaded file (Dataset folder). All used datasets are available on: https://archive.ics.uci.edu/.
+
 ## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following papers:
