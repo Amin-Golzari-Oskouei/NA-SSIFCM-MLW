@@ -1,5 +1,5 @@
 %This demo shows how to call the weighted fuzzy C-means algorithm described in the paper:
-%"Towards Robust Clustering: Integrating Multiple Weighting Factors with Neighborhood Information in Semi-Supervised Intuitionistic Fuzzy C-Means",
+%"A Neighborhood-Aware Semi-Supervised Intuitionistic Fuzzy Clustering Method with Multi-Level Weighting",
 %For the demonstration, the iris dataset of the above paper is used.
 
 clc
@@ -102,5 +102,6 @@ for repeat=1:Restarts
     fprintf('End of Restart %d\n',repeat);
     fprintf('========================================================\n\n')
 end
+
 
 fprintf('Average semisupervised accurcy over %d restarts: %f.\n',Restarts,mean(Accurcy_semisupervised));
