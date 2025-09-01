@@ -89,7 +89,7 @@ for repeat=1:Restarts
     
     %Execute proposed clustering algorithm.
     %Get the cluster assignments, the cluster centers and the cluster weight and feature weight.
-    [Cluster_elem,M,W,Z]=IMWFNI_SSIFCM(X,M,k,p_init,p_max,p_step,t_max,beta_memory,N,fuzzy_degree,d,q,landa,f,b, alpha2, alpha1,Neig, NR, beta, sample_weight);
+    [Cluster_elem,M,W,Z]=NA_SSIFCM_MLW(X,M,k,p_init,p_max,p_step,t_max,beta_memory,N,fuzzy_degree,d,q,landa,f,b, alpha2, alpha1,Neig, NR, beta, sample_weight);
     
     [~,semisupervised_Cluster]=max(Cluster_elem,[],1); %Hard clusters. Select the largest value for each sample among the clusters, and assign that sample to that cluster.
     
@@ -105,3 +105,4 @@ end
 
 
 fprintf('Average semisupervised accurcy over %d restarts: %f.\n',Restarts,mean(Accurcy_semisupervised));
+
