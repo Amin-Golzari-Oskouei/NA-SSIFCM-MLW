@@ -6,6 +6,13 @@ Amin Golzari Oskouei, Negin Samadi, Asgarali Bouyer, and Bahman Arasteh, "TA Nei
 
 Comments are written for all steps of the algorithm for better understanding the code. Also, a demo is implemented for ease of running, which runs by importing the data and other necessary algorithm parameters.
 
+## Graphical Abstract of the mw_pfcm_brain_mri:
+<img width="1601" height="1351" alt="graphical abstract drawio (1)" src="https://github.com/user-attachments/assets/76b4516d-9dfd-460f-aa84-b560f4fbf63d" />
+
+## Overview of the mw_pfcm_brain_mri:
+
+<img width="1680" height="837" alt="Model drawio (2) drawio" src="https://github.com/user-attachments/assets/6990c30c-0e05-4937-a0ab-98a2b8dd1112" />
+
 ## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following papers:
