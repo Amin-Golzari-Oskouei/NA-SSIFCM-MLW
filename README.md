@@ -17,7 +17,7 @@ Comments are written for all steps of the algorithm for better understanding the
 
 1) Please cite the following papers:
 
-Amin Golzari Oskouei, Negin Samadi, Asgarali Bouyer, and Bahman Arasteh, "TA Neighborhood-Aware Semi-Supervised Intuitionistic Fuzzy Clustering Method with Multi-Level Weighting," Applied Soft Computing (submitted).
+Amin Golzari Oskouei, Negin Samadi, Asgarali Bouyer, and Bahman Arasteh, "A Neighborhood-Aware Semi-Supervised Intuitionistic Fuzzy Clustering Method with Multi-Level Weighting," Applied Soft Computing (submitted).
 
 2) Please do not distribute the dataset or source codes to others without the authorization from Dr. Amin Golzari Oskouei (first Author).
 
